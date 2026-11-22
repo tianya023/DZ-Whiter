@@ -1,0 +1,4 @@
+interface:
+  display_name: "DZ-Whiter"
+  short_description: "从生活细节起笔，创作与润色中文叙事短文、人物小品和文化随笔"
+  default_prompt: "请用 $dz-whiter 把我提供的一件生活小事写成一篇中文随笔。"
